@@ -66,6 +66,7 @@ body {
   font-size: var(--font-size);
   padding: var(--base-space * 2);
   border-radius: var(--size-border);
+  height: var(--size-button);
 }
 
 .blue {
